@@ -1,0 +1,1 @@
+-本地和服务器分支名同步： git remote update origin --prune

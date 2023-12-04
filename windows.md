@@ -1,0 +1,4 @@
+- CMD管理员权限启动：
+  - Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\EnableLUA ->0  open cmd with amin () default
+- 开机启动
+  - Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run  startup
